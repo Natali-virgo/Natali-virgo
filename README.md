@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Natali Vargas</h1>
-<h3 align="center">soy especialista en marketing digital</h3>
+<h3 align="center">Soy especialista en marketing digital</h3>
 
 - 🔭 I’m currently working on **una tienda de ropas online**
 
